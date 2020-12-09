@@ -1,0 +1,12 @@
+name: Carrier test
+displayName: "[gold]Carrier [red]Testing"
+author:
+  '''
+  [red]K103908 
+  '''
+description:
+  '''
+Testing Carriers Creation and Function.
+  '''
+version: 1 alpha
+minGameVersion: 119
