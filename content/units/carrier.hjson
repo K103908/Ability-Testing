@@ -14,7 +14,8 @@ rotateSpeed: 0.1
 abilities: [
   {
    type:UnitSpawnAbility
-   unitType: Horizon
+   unit: Horizon
    spawnTime:50
  }
 ]
+research: risso
