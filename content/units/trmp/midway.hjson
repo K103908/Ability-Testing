@@ -1,8 +1,7 @@
 localizedName: Midway
-description: An Aircraft Carrier to Produce bombing units and Fighters.
+description: An aircraft carrier that mass produces flare and horizon units.
 speed: 0.5
 accel: 0.15
-flying: false
 range: 240
 hitSize: 50
 health: 25500880

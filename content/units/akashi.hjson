@@ -2,7 +2,6 @@ localizedName: Akashi
 description: A repair ship to help other Units
 speed: 1
 accel: 0.17
-flying: false
 range: 240
 hitSize: 50
 health: 122504
