@@ -1,6 +1,6 @@
 type: UnitFactory
-name: Mod Factory
-description: Testing mod factory for exotic.
+name: Factory
+description: Testing mod factory.
 size: 2
 buildVisibility: sandboxOnly
 consumes: {
