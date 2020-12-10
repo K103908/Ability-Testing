@@ -13,8 +13,8 @@ research: risso
 weapons: [
   {
     name: repair-gun
-    x: 20
-    y: 10
+    x: 15
+    y: -10
     rotate: true
     reload: 60
     shootCone: 30
