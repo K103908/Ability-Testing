@@ -1,11 +1,11 @@
 localizedName: Midway
 description: An Aircraft Carrier to Produce bombing units and Fighters.
-speed: 0.25
+speed: 0.8
 accel: 0.5
 flying: false
 range: 240
 hitSize: 288
 health: 25500880
 armor: 64000
-rotateSpeed: 0.1
+rotateSpeed: 0.5
 research: risso
