@@ -1,0 +1,17 @@
+type: UnitFactory
+name: Mod Factory
+description: Testing mod factory for exotic.
+size: 2
+buildVisibility: sandboxOnly
+consumes: {
+  power: 0.1
+}
+plans: [
+  {
+    unit: Midway
+    time: 180
+    requirements: [
+      copper/1
+    ]
+  }
+ ]
