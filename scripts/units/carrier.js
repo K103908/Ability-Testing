@@ -8,3 +8,6 @@ for(var i = 0; i < 5; i++){
 }
 //StatsFieldAbility(effect, duration, reload, radius)
 midway.abilties.add(new StatusFieldAbility(StatusEffects.overclock, 60 * 6, 60 * 9, 64));
+
+//UnitFactory.UnitPlan(unit, time, cost)
+Blocks.navalFactory.plans.add(new UnitFactory.UnitPlan(midway, 60 * 25, ItemStack.with(Items.silicon, 69, Items.metaglass, 69, Items.titanium, 69)));
