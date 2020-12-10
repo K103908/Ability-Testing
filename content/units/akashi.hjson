@@ -25,7 +25,9 @@ weapons: [
     damage: 1254
     healPercent: 20
     collidesTeam: true
+    speed: 10
     canHeal: true
+    lifetime: 24
   }
 }
   ]
