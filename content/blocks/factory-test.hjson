@@ -1,0 +1,16 @@
+type: UnitFactory
+name: Factory
+description: Testing mod factory.
+size: 1
+buildVisibility: sandboxOnly
+consumes: {
+  power: 0.1
+}
+plans: [
+  {
+    unit: carrier
+    time: 180
+    requirements: [
+      copper/1
+    ]
+  }
