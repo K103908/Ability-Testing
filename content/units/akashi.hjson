@@ -1,0 +1,33 @@
+localizedName: Akashi
+description: A repair ship to help other Units
+speed: 1
+accel: 0.17
+flying: false
+range: 240
+hitSize: 50
+health: 122504
+armor: 75
+canHeal: true
+rotateSpeed: 1
+rotateShooting: false
+research: risso
+weapons: [
+  {
+  name: repair-gun
+  x: 0
+  y: 3
+  rotate: true
+  reload: 60
+  shootCone: 30
+  bullet: {
+    type: LaserBulletType
+    damage: 125400
+    healPercent: 20
+    collidesTeam: true
+    canHeal: true
+    length: 248
+    width: 55
+    sideAngle: 10
+  }
+}
+  ]
