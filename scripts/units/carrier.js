@@ -4,8 +4,8 @@ midway.constructor = () => extend(UnitWaterMove, {});
 var sides = [-8, 8];
 for(var i = 0; i < 5; i++){
   //Unit Spawn Ability(unit, spawn time, x, y)
-  midway.abilities.add(new UnitSpawnAbility(UnitTypes.horizon, 60 * 30 + 60 * i, sides[i % 2], 32 - i * 16));
-  midway.abilities.add(new UnitSpawnAbility(UnitTypes.flare, 60 * 30 + 60 * i, sides[(i + 2) % 2], 32 - i * 16));
+  midway.abilities.add(new UnitSpawnAbility(UnitTypes.horizon, 60 * 30 + 10 * i, sides[i % 2], 32 - i * 16));
+  midway.abilities.add(new UnitSpawnAbility(UnitTypes.flare, 60 * 30 + 10 * i, sides[(i + 1) % 2], 32 - i * 16));
 }
 //StatsFieldAbility(effect, duration, reload, radius)
 midway.abilties.add(new StatusFieldAbility(StatusEffects.overclock, 60 * 6, 60 * 9, 64));
