@@ -1,4 +1,3 @@
-type: naval
 localizedName: Akashi
 description: A repair ship to help other Units
 speed: 1
@@ -14,18 +13,18 @@ rotateShooting: false
 research: risso
 weapons: [
   {
-  name: repair-gun
-  x: 0
-  y: 3
-  rotate: true
-  reload: 60
-  shootCone: 30
-  bullet: {
-    type: MissileBulletType
-    damage: 1254
-    healPercent: 20
-    collidesTeam: true
-    canHeal: true
+    name: repair-gun
+    x: 0
+    y: 3
+    rotate: true
+    reload: 60
+    shootCone: 30
+    bullet: {
+      type: MissileBulletType
+      damage: 1254
+      healPercent: 20
+      collidesTeam: true
+      canHeal: true
+    }
   }
-}
-  ]
+]
