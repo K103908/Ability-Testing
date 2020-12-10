@@ -1,7 +1,7 @@
 type: UnitFactory
 name: Factory
 description: Testing mod factory.
-size: 1
+size: 2
 buildVisibility: sandboxOnly
 consumes: {
   power: 0.1
