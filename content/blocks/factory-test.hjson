@@ -14,5 +14,12 @@ plans: [
       copper/1
     ]
   }
+  {
+    unit: akashi
+    time: 180
+    requirements: [
+      copper/1
+    ]
+  }
  ]
 category: units
