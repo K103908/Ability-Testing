@@ -1,6 +1,6 @@
 const SuNavT3 =
 extendContent (UnitType,
-"Carrier", {}) ;
+"Midway", {}) ;
 SuNavT3.constructor = () =>
 extend(UnitWaterMove, {});
 SuNavT3.abilities.add(new
