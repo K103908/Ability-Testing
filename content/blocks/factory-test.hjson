@@ -8,7 +8,7 @@ consumes: {
 }
 plans: [
   {
-    unit: Midway
+    unit: midway
     time: 180
     requirements: [
       copper/1

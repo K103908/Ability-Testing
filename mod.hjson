@@ -1,4 +1,5 @@
-name: Carrier test
+name: carrier-test
+displayName: Carrier test
 displayName: "[gold]Carrier [red]Testing"
 author:
   '''
