@@ -1,11 +1,8 @@
-type: naval
-name: Midway
+localizedName: Midway
 description: An Aircraft Carrier to Produce bombing units and Fighters.
 speed: 0.25
 accel: 0.5
 flying: false
-float: true
-canDrown: false
 range: 240
 hitSize: 288
 health: 25500880
