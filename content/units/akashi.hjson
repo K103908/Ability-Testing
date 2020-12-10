@@ -28,21 +28,4 @@ weapons: [
       lifetime: 24
     }
   }
-  {
-    name: repair-gun
-    x: -20
-    y: -10
-    rotate: true
-    reload: 60
-    shootCone: 30
-    bullet: {
-      type: MissileBulletType
-      damage: 1254
-      healPercent: 20
-      collidesTeam: true
-      speed: 10
-      canHeal: true
-      lifetime: 24
-    }
-  }
 ]
