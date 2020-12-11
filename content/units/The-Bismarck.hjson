@@ -9,18 +9,18 @@ rotateSpeed: 0.5
 trailLength: 40
 trailScl: 4
 canDrown: false
-range: 
+range: 3840
 weapons: [
- {
+   {
    name: bismarck-cannon
    rotate: true
-   rotateSpeed: 10
+   rotateSpeed: 0.2
    mirror: false
    range: 3840
-   reload: 60
+   reload: 90
    x: 0
    y: 20
-   recoil: 20
+   recoil: 2
    inaccuracy: 0
    shots: 2
    shotDelay: 0
@@ -29,96 +29,12 @@ weapons: [
    bullet: {
     bulletType: artillery
     effect: burning
-    damage: 645390
+    damage: 598807
     shootEffect: shootBig
     speed: 16
     knockback: 5
-    width: 10
-    height: 16
-    shootEffect: shootBig
-    lifetime: 240
-    }
-   }
-   {
-   name: bismarck-cannon
-   rotate: true
-   rotateSpeed: 10
-   mirror: false
-   range: 3840
-   reload: 60
-   x: 0
-   y: 35
-   recoil: 20
-   inaccuracy: 0
-   shots: 2
-   shotDelay: 0
-   shootSound: shootBig
-   ejectEffect: casing1
-   bullet: {
-    bulletType: artillery
-    effect: burning
-    damage: 645390
-    shootEffect: shootBig
-    speed: 16
-    knockback: 5
-    width: 10
-    height: 16
-    shootEffect: shootBig
-    lifetime: 240
-    }
-   }
-   {
-   name: bismarck-cannon
-   rotate: true
-   rotateSpeed: 10
-   mirror: false
-   range: 3840
-   reload: 60
-   x: 0
-   y: -20
-   recoil: 20
-   inaccuracy: 0
-   shots: 2
-   shotDelay: 0
-   shootSound: shootBig
-   ejectEffect: casing1
-   bullet: {
-    bulletType: artillery
-    effect: burning
-    damage: 645390
-    shootEffect: shootBig
-    speed: 16
-    knockback: 5
-    width: 10
-    height: 16
-    shootEffect: shootBig
-    lifetime: 240
-    }
-   }
-   {
-   name: bismarck-cannon
-   rotate: true
-   rotateSpeed: 10
-   mirror: false
-   range: 3840
-   reload: 60
-   x: 0
-   y: -35
-   recoil: 20
-   inaccuracy: 0
-   shots: 2
-   shotDelay: 0
-   shootSound: shootBig
-   ejectEffect: casing1
-   bullet: {
-    bulletType: artillery
-    effect: burning
-    damage: 645390
-    shootEffect: shootBig
-    speed: 16
-    knockback: 5
-    width: 10
-    height: 16
+    width: 4
+    height: 8
     shootEffect: shootBig
     lifetime: 240
     }
