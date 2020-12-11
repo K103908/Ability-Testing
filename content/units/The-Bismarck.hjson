@@ -12,7 +12,7 @@ canDrown: false
 range: 
 weapons: [
  {
-   name: "Bismarck Cannon"
+   name: bismarck-cannon
    rotate: true
    rotateSpeed: 10
    mirror: false
@@ -40,7 +40,7 @@ weapons: [
     }
    }
    {
-   name: "Bismarck Cannon"
+   name: bismarck-cannon
    rotate: true
    rotateSpeed: 10
    mirror: false
@@ -68,7 +68,7 @@ weapons: [
     }
    }
    {
-   name: "Bismarck Cannon"
+   name: bismarck-cannon
    rotate: true
    rotateSpeed: 10
    mirror: false
@@ -96,7 +96,7 @@ weapons: [
     }
    }
    {
-   name: "Bismarck Cannon"
+   name: bismarck-cannon
    rotate: true
    rotateSpeed: 10
    mirror: false
