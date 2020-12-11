@@ -9,5 +9,5 @@ description:
   '''
 Making Units and Weapons using scripts and hjson
   '''
-version: 5 alpha
+version: 6 alpha
 minGameVersion: 119
