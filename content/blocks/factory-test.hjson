@@ -21,5 +21,12 @@ plans: [
       copper/1
     ]
   }
+  {
+    unit: The-Bismarck
+    time: 180
+    requirements: [
+      copper/1
+    ]
+  }
  ]
 category: units
