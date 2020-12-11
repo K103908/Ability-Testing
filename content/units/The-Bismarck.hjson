@@ -39,4 +39,88 @@ weapons: [
     lifetime: 240
     }
    }
+    {
+   name: bismarck-cannon
+   rotate: true
+   rotateSpeed: 0.2
+   mirror: false
+   range: 3840
+   reload: 90
+   x: 0
+   y: -20
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: artillery
+    effect: burning
+    damage: 598807
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
+    width: 4
+    height: 8
+    shootEffect: shootBig
+    lifetime: 240
+    }
+   }
+    {
+   name: bismarck-cannon
+   rotate: true
+   rotateSpeed: 0.2
+   mirror: false
+   range: 3840
+   reload: 90
+   x: 0
+   y: 35
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: artillery
+    effect: burning
+    damage: 598807
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
+    width: 4
+    height: 8
+    shootEffect: shootBig
+    lifetime: 240
+    }
+   }
+    {
+   name: bismarck-cannon
+   rotate: true
+   rotateSpeed: 0.2
+   mirror: false
+   range: 3840
+   reload: 90
+   x: 0
+   y: -35
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: artillery
+    effect: burning
+    damage: 598807
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
+    width: 4
+    height: 8
+    shootEffect: shootBig
+    lifetime: 240
+    }
+   }
   ]
