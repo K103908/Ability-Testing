@@ -1,0 +1,11 @@
+type: naval
+localizedName: "[red]The Bismarck"
+description: "A beast made of steel, the Bismarck was made to rule the seas as an absolute force of power. Armed with many cannons it will fire away."
+health: 725000000
+armor: 200000
+speed: 0.25
+accel: 0.15
+rotateSpeed: 0.5
+trailLength: 40
+trailScl: 4
+canDrown: false
