@@ -4,9 +4,9 @@ description: "A beast made of steel, the Bismarck was made to rule the seas as a
 health: 725000000
 armor: 200000
 speed: 0.25
-accel: 0.15
+accel: 0.5
 rotateSpeed: 1
-trailLength: 40
+trailLength: 60
 trailScl: 4
 canDrown: false
 range: 3840
