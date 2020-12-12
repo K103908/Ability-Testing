@@ -33,8 +33,8 @@ weapons: [
     shootEffect: shootBig
     speed: 16
     knockback: 5
-    width: 10
-    height: 12
+    width: 20
+    height: 22
     shootEffect: shootBig
     lifetime: 240
     }
@@ -61,8 +61,8 @@ weapons: [
     shootEffect: shootBig
     speed: 16
     knockback: 5
-    width: 10
-    height: 12
+    width: 2o
+    height: 22
     shootEffect: shootBig
     lifetime: 240
     }
@@ -89,8 +89,8 @@ weapons: [
     shootEffect: shootBig
     speed: 16
     knockback: 5
-    width: 10
-    height: 12
+    width: 2o
+    height: 22
     shootEffect: shootBig
     lifetime: 240
     }
@@ -117,8 +117,8 @@ weapons: [
     shootEffect: shootBig
     speed: 16
     knockback: 5
-    width: 10
-    height: 12
+    width: 2o
+    height: 22
     shootEffect: shootBig
     lifetime: 240
     }
@@ -187,7 +187,7 @@ weapons: [
    range: 640
    reload: 90
    x: 25
-   y: 10
+   y: 30
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -215,7 +215,7 @@ weapons: [
    range: 640
    reload: 90
    x: 25
-   y: -10
+   y: -30
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -243,7 +243,7 @@ weapons: [
    range: 640
    reload: 90
    x: -25
-   y: 10
+   y: 30
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -271,7 +271,7 @@ weapons: [
    range: 640
    reload: 90
    x: -25
-   y: -10
+   y: -30
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -299,7 +299,7 @@ weapons: [
    range: 640
    reload: 90
    x: -20
-   y: -5
+   y: -25
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -327,7 +327,7 @@ weapons: [
    range: 640
    reload: 90
    x: -20
-   y: 5
+   y: 25
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -355,7 +355,7 @@ weapons: [
    range: 640
    reload: 90
    x: 20
-   y: -5
+   y: -25
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -383,7 +383,7 @@ weapons: [
    range: 640
    reload: 90
    x: 20
-   y: 5
+   y: 25
    recoil: 2
    inaccuracy: 0
    shots: 2
