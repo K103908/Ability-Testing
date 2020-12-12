@@ -19,7 +19,7 @@ weapons: [
    range: 3840
    reload: 90
    x: 0
-   y: 20
+   y: 80
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -47,7 +47,7 @@ weapons: [
    range: 3840
    reload: 90
    x: 0
-   y: -20
+   y: -80
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -75,7 +75,7 @@ weapons: [
    range: 3840
    reload: 90
    x: 0
-   y: 35
+   y: 110
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -103,7 +103,7 @@ weapons: [
    range: 3840
    reload: 90
    x: 0
-   y: -35
+   y: -110
    recoil: 2
    inaccuracy: 0
    shots: 2
