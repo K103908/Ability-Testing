@@ -61,7 +61,7 @@ weapons: [
     shootEffect: shootBig
     speed: 16
     knockback: 5
-    width: 2o
+    width: 20
     height: 22
     shootEffect: shootBig
     lifetime: 240
@@ -89,7 +89,7 @@ weapons: [
     shootEffect: shootBig
     speed: 16
     knockback: 5
-    width: 2o
+    width: 20
     height: 22
     shootEffect: shootBig
     lifetime: 240
@@ -117,7 +117,7 @@ weapons: [
     shootEffect: shootBig
     speed: 16
     knockback: 5
-    width: 2o
+    width: 20
     height: 22
     shootEffect: shootBig
     lifetime: 240
