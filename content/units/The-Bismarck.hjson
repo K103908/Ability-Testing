@@ -19,7 +19,7 @@ weapons: [
    range: 3840
    reload: 90
    x: 0
-   y: 80
+   y: 60
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -33,8 +33,8 @@ weapons: [
     shootEffect: shootBig
     speed: 16
     knockback: 5
-    width: 4
-    height: 8
+    width: 10
+    height: 12
     shootEffect: shootBig
     lifetime: 240
     }
@@ -47,7 +47,7 @@ weapons: [
    range: 3840
    reload: 90
    x: 0
-   y: -80
+   y: -60
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -61,8 +61,8 @@ weapons: [
     shootEffect: shootBig
     speed: 16
     knockback: 5
-    width: 4
-    height: 8
+    width: 10
+    height: 12
     shootEffect: shootBig
     lifetime: 240
     }
@@ -75,7 +75,7 @@ weapons: [
    range: 3840
    reload: 90
    x: 0
-   y: 110
+   y: 95
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -89,8 +89,8 @@ weapons: [
     shootEffect: shootBig
     speed: 16
     knockback: 5
-    width: 4
-    height: 8
+    width: 10
+    height: 12
     shootEffect: shootBig
     lifetime: 240
     }
@@ -103,7 +103,7 @@ weapons: [
    range: 3840
    reload: 90
    x: 0
-   y: -110
+   y: -95
    recoil: 2
    inaccuracy: 0
    shots: 2
@@ -117,10 +117,290 @@ weapons: [
     shootEffect: shootBig
     speed: 16
     knockback: 5
+    width: 10
+    height: 12
+    shootEffect: shootBig
+    lifetime: 240
+    }
+   }
+       {
+   name: bismarck-AA
+   rotate: true
+   rotateSpeed: 10
+   mirror: false
+   range: 640
+   reload: 90
+   x: 30
+   y: 0
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: flak
+    effect: burning
+    damage: 54890
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
     width: 4
     height: 8
     shootEffect: shootBig
-    lifetime: 240
+    lifetime: 40
+    }
+   }
+    {
+   name: bismarck-AA
+   rotate: true
+   rotateSpeed: 10
+   mirror: false
+   range: 640
+   reload: 90
+   x: -30
+   y: 0
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: flak
+    effect: burning
+    damage: 54890
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
+    width: 4
+    height: 8
+    shootEffect: shootBig
+    lifetime: 40
+    }
+   }
+    {
+   name: bismarck-AA
+   rotate: true
+   rotateSpeed: 10
+   mirror: false
+   range: 640
+   reload: 90
+   x: 25
+   y: 10
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: flak
+    effect: burning
+    damage: 54890
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
+    width: 4
+    height: 8
+    shootEffect: shootBig
+    lifetime: 40
+    }
+   }
+    {
+   name: bismarck-AA
+   rotate: true
+   rotateSpeed: 10
+   mirror: false
+   range: 640
+   reload: 90
+   x: 25
+   y: -10
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: flak
+    effect: burning
+    damage: 54890
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
+    width: 4
+    height: 8
+    shootEffect: shootBig
+    lifetime: 40
+    }
+   }
+    {
+   name: bismarck-AA
+   rotate: true
+   rotateSpeed: 10
+   mirror: false
+   range: 640
+   reload: 90
+   x: -25
+   y: 10
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: flak
+    effect: burning
+    damage: 54890
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
+    width: 4
+    height: 8
+    shootEffect: shootBig
+    lifetime: 40
+    }
+   }
+    {
+   name: bismarck-AA
+   rotate: true
+   rotateSpeed: 10
+   mirror: false
+   range: 640
+   reload: 90
+   x: -25
+   y: -10
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: flak
+    effect: burning
+    damage: 54890
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
+    width: 4
+    height: 8
+    shootEffect: shootBig
+    lifetime: 40
+    }
+   }
+    {
+   name: bismarck-AA
+   rotate: true
+   rotateSpeed: 10
+   mirror: false
+   range: 640
+   reload: 90
+   x: -20
+   y: -5
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: flak
+    effect: burning
+    damage: 54890
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
+    width: 4
+    height: 8
+    shootEffect: shootBig
+    lifetime: 40
+    }
+   }
+    {
+   name: bismarck-AA
+   rotate: true
+   rotateSpeed: 10
+   mirror: false
+   range: 640
+   reload: 90
+   x: -20
+   y: 5
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: flak
+    effect: burning
+    damage: 54890
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
+    width: 4
+    height: 8
+    shootEffect: shootBig
+    lifetime: 40
+    }
+   }
+    {
+   name: bismarck-AA
+   rotate: true
+   rotateSpeed: 10
+   mirror: false
+   range: 640
+   reload: 90
+   x: 20
+   y: -5
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: flak
+    effect: burning
+    damage: 54890
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
+    width: 4
+    height: 8
+    shootEffect: shootBig
+    lifetime: 40
+    }
+   }
+    {
+   name: bismarck-AA
+   rotate: true
+   rotateSpeed: 10
+   mirror: false
+   range: 640
+   reload: 90
+   x: 20
+   y: 5
+   recoil: 2
+   inaccuracy: 0
+   shots: 2
+   shotDelay: 0
+   shootSound: shootBig
+   ejectEffect: casing1
+   bullet: {
+    bulletType: flak
+    effect: burning
+    damage: 54890
+    shootEffect: shootBig
+    speed: 16
+    knockback: 5
+    width: 4
+    height: 8
+    shootEffect: shootBig
+    lifetime: 40
     }
    }
   ]
