@@ -23,6 +23,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -51,6 +52,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -79,6 +81,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -107,6 +110,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -135,6 +139,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -163,6 +168,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -191,6 +197,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -219,6 +226,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -247,6 +255,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -275,6 +284,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -303,6 +313,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -331,6 +342,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -359,6 +371,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
@@ -387,6 +400,7 @@ weapons: [
    recoil: 2
    inaccuracy: 0
    shots: 2
+   alternate: true
    shotDelay: 0
    shootSound: shootBig
    ejectEffect: casing1
